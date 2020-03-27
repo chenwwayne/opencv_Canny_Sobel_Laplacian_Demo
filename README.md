@@ -1,6 +1,8 @@
 
-OpenCV°æ±¾£º2.4.13
-ÔËĞĞ»·¾³£ºVistualStudio2015
-±àÒëÆ÷£ºx86 / release
+OpenCVç‰ˆæœ¬ï¼š2.4.13
+è¿è¡Œç¯å¢ƒï¼šVistualStudio2015
+ç¼–è¯‘å™¨ï¼šx86 / release
 
-Ğ§¹ûÍ¼¼ûresultPicture ÎÄ¼ş
+![åŠ è½½å›¾ç‰‡å¤±è´¥è¯·ç§»æ­¥https://github.com/ischansgithub/opencv_Canny_Sobel_Laplacian_Demo/tree/master/resultPicture](https://github.com/ischansgithub/opencv_Canny_Sobel_Laplacian_Demo/blob/master/resultPicture/%E5%9B%BE%E7%89%871.png)
+![åŠ è½½å›¾ç‰‡å¤±è´¥è¯·ç§»æ­¥https://github.com/ischansgithub/opencv_Canny_Sobel_Laplacian_Demo/tree/master/resultPicture](https://github.com/ischansgithub/opencv_Canny_Sobel_Laplacian_Demo/blob/master/resultPicture/%E5%9B%BE%E7%89%872.png)
+![åŠ è½½å›¾ç‰‡å¤±è´¥è¯·ç§»æ­¥https://github.com/ischansgithub/opencv_Canny_Sobel_Laplacian_Demo/tree/master/resultPicture](https://github.com/ischansgithub/opencv_Canny_Sobel_Laplacian_Demo/blob/master/resultPicture/%E5%9B%BE%E7%89%873.png)
